@@ -1,0 +1,11 @@
+# Ignore the executable files
+*.exe
+
+# Ignore the Visual Studio Code settings folder
+.vscode/
+
+# Ignore the data files
+data/*.csv
+
+# Ignore the build files
+build/
